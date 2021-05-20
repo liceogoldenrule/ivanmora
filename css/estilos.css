@@ -14,8 +14,10 @@ img{
     border-style: double;
     border-color: darkblue;
 }
-table{
+tr{
     border-color: darkmagenta;
     border-style: ridge;
     background-color: darksalmon;
+    color: darkslateblue;
+    font-style: oblique;
 }
