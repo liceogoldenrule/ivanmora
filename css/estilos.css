@@ -1,0 +1,16 @@
+body{
+    background-color: aqua;
+    font-style: unset;
+    color: blue;
+    
+}
+h1{
+    color: crimson;
+    text-align: center;
+
+}
+img{
+    opacity: 50%;
+    border-style: double;
+    border-color: darkblue;
+}
